@@ -84,4 +84,6 @@ If they aren't, the loop is decorative. And decoration, at scale, is exactly wha
 
 ---
 
-*The full paper develops the framework formally, engages prior literature in detail, and proposes a falsifiable empirical hypothesis about the coupling. Available as a preprint.*
+*The full paper develops the framework formally, engages prior literature in detail, and proposes a falsifiable empirical hypothesis about the coupling. [Available as a preprint](https://github.com/AgelessK/RGAD).*
+
+*Written with AI assistance — Claude (Anthropic), via TrendAI's Claude for Enterprise license, used as a research and editorial scaffold. The framework and substantive arguments are the author's; AI helped with prior-art search, citation verification, structural critique, and prose refinement. While TrendAI provides the licensed AI tool, this work was not commissioned by, reviewed by, or written on behalf of TrendAI or Trend Micro Inc. Full disclosure of working model and competing interests in the [linked preprint](https://github.com/AgelessK/RGAD).*
