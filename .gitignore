@@ -1,0 +1,59 @@
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+*.run.xml
+*.bcf
+*.dvi
+*.ps
+
+# BibTeX intermediate files (keep references.bib, ignore generated)
+*.bbl
+*.blg
+
+# Index, glossary, nomenclature
+*.idx
+*.ilg
+*.ind
+*.glo
+*.gls
+*.glg
+*.nlo
+*.nls
+
+# Beamer presentation artifacts
+*.nav
+*.snm
+*.vrb
+
+# latexmk
+*.fls
+*.fdb_latexmk
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary build directories
+build/
+out/
+_minted-*/
+
+# Optional: keep .pdf in version control (the compiled paper is the deliverable),
+# but ignore any other PDFs accidentally generated during builds.
+# If you prefer to ignore ALL PDFs and rebuild from source, uncomment the next line:
+# *.pdf
